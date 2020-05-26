@@ -1,2 +1,22 @@
 # WYmusic
-仿网易云音乐移动端H5页面
+
+> 仿网易云移动端H5页面
+
+## Project setup
+
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
