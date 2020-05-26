@@ -2,7 +2,7 @@
 import Vue from 'vue'
 
 // 进行一些全局配置
-axios.defaults.baseURL = 'http://localhost:3000'
+axios.defaults.baseURL = 'http://localhost:3000/'
 axios.defaults.timeout = 10000
 
 // 封装自己的get/post方法
